@@ -19,6 +19,9 @@ peewee: <br>
 http://jonathansoma.com/tutorials/webapps/intro-to-peewee/ <br>
 интеграция с фласк: http://docs.peewee-orm.com/en/latest/peewee/example.html <br>
 
+__дедлайн:__ 16.03 до пары
  
 также по всем вопросам и не пониманиям писать: <br>
 telegram: @sergechuvakin <br>
+
+
