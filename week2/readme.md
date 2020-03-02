@@ -14,5 +14,5 @@ csvsql --db sqlite:///bd_name.db --insert --table table_name table.csv
 
 Если они нужны, а их еще до сих пор нет, пишите сюда с требованиями: 
 
-telegram: @sergechuvakin
+telegram: @sergechuvakin <br>
 также по всем вопросам и не пониманиям писать туда же. 
