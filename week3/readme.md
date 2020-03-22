@@ -38,4 +38,9 @@ res = requests.post('http://127.0.0.1:5000/todo/api/v1/tasks', json=js)
 
 requests.get('http://127.0.0.1:5000/todo/api/v1/all_tasks').json()
 ```
+По всем вопросам пишите: 
+telegram: @sergechuvakin
 
+PS: отличныя тетрадка для обучения командам по командной строки: 
+
+https://github.com/alexeyev/HSE-SPb-BigData-Python-Fall2016/blob/master/lesson08/lesson8_updated.ipynb
